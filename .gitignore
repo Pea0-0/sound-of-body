@@ -1,0 +1,29 @@
+# ── Environment ───────────────────────────────────────────────────────────────
+.env
+
+# ── IDE (machine-specific; configure locally) ─────────────────────────────────
+.vscode/settings.json
+pyrightconfig.json
+
+# ── Docs (content is in README.md) ────────────────────────────────────────────
+docs/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── PyInstaller Windows build (dist/) ─────────────────────────────────────────
+# The dist/ folder contains the compiled heartbeat.exe and the full Windows
+# Python runtime (~50 MB of DLLs, PYDs, and bundled packages).
+# Run from source instead: python heartbeat.py
+dist/
+
+# ── Runtime-generated output ──────────────────────────────────────────────────
+music/data/
+music/output/
+music/output_*/
+music/tharm_*/

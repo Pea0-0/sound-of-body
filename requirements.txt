@@ -1,0 +1,6 @@
+ffmpy>=1.0.0
+imageio-ffmpeg>=0.5.0
+moviepy>=2.0.0
+pydub>=0.25.1
+pyserial>=3.5
+python-dotenv>=1.0.0
