@@ -1,5 +1,7 @@
 # Sound of Body
 
+![](assets/preview.png)
+
 **Sound of Body** is a wearable biometric sonification installation. It merges
 the melodies of external sounds with the unique rhythms of the human body,
 inviting individuals to perceive and appreciate the harmonious collision of
